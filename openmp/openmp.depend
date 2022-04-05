@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649186526 source:c:\users\52246\desktop\project-openmp\openmp\main.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+
